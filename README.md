@@ -37,12 +37,15 @@ Ao selecionar a opção para adicionar um cliente, o programa pedirá o nome e o
 
 ## Estrutura de Diretórios
 
-CadastroClientesPOO/
-│
-├── Program.cs        # Classe principal do programa
-├── Cliente.cs        # Classe que representa um cliente
-├── ClienteManager.cs  # Classe que gerencia as operações de clientes
-└── ValidadorEmail.cs # Classe que valida e-mails
+CadastroClientesPOO
+
+ Program.cs          # Classe principal do programa
+ 
+ Cliente.cs          # Classe que representa um cliente
+ 
+ ClienteManager.cs   # Classe que gerencia as operações de clientes
+ 
+ ValidadorEmail.cs   # Classe que valida e-mails
 
 
 
